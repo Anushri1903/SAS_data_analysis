@@ -1,0 +1,25 @@
+
+Basic SAS
+
+1. Preliminaries
+2. Introduction to SAS
+3. SAS Programs
+4. SAS Syntax
+5. SAS Datasets
+6. Reading SAS Datasets
+7. Controlling Input and Output
+8. Reading Raw Data
+9. Manipulating Data
+10. Editing Data
+11.  Processing Data Iteratively
+12.  Processing Text
+13. Combining Datasets
+14.  Summary Reports
+
+Adavanced SAS
+
+1. Advanced data step topics
+2. Manipulating data with PROC SQL
+3. SAS macro facility
+4. Simulation with the data step
+5. Analyses with PROC IML
