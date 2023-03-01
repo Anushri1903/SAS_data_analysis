@@ -1,5 +1,6 @@
 
-Basic SAS
+## This repository contains following essential SAS concepts.
+# Basic SAS
 
 1. Preliminaries
 2. Introduction to SAS
@@ -16,7 +17,7 @@ Basic SAS
 13. Combining Datasets
 14.  Summary Reports
 
-Adavanced SAS
+# Adavanced SAS
 
 1. Advanced data step topics
 2. Manipulating data with PROC SQL
